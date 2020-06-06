@@ -8,4 +8,7 @@ print (type(c))
 print (c[0])
 print(b[1]) 
      
+for i in c:
+    print(i)
+
 
