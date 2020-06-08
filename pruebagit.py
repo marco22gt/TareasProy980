@@ -11,4 +11,6 @@ print(b[1])
 for i in c:
     print(i)
 
+for j in range(0, 10, 1):
+    print (j)
 
